@@ -1,4 +1,4 @@
-module github.com/digitorus/ssh
+module github.com/vanbroup/ssh
 
 go 1.12
 
